@@ -1,0 +1,43 @@
+
+#nav-area{
+    background-color: #d22b2b;
+}
+
+#nav-area .icon a{
+    text-decoration: none;
+}
+
+#nav-area .icon a i{
+    font-size: 30px;
+    color: white;
+}
+
+#nav-area .icon sup{
+    top: -1em;
+    font-size: 15px;
+    color: white;
+}
+
+
+#shop .card a{
+    margin-left: 70px;
+}
+
+
+#shop .card span{
+    font-weight: 600;
+}
+
+
+#shop .card .button{
+    transition: all 0.5s;
+}
+
+#shop .card .button:hover{
+    transform: scale(1.1);
+    background-color: red;
+}
+
+#shop .card{
+    box-shadow: rgb(206 196 196 / 68%) 0px 8px 24px;
+}
